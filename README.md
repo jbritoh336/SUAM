@@ -1,2 +1,2 @@
 # SUAM
-Repositorio de la aplicacio SUAM APP
+Repositorio de la aplicación SUAM APP
